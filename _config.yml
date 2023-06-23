@@ -10,10 +10,6 @@ event_coordinator:
   name: Alejandro Aguilar
   email: alejandro.aguilar@austintexas.gov
   phone: 5124044228
-utility_coordinator:
-  name: Ben Hamilton
-  email: ben.hamilton@austintexas.gov
-  phone: 5124044236
 security_coordinator:
   name: Ava Palatiere
   email: Ava.Palatiere@austintexas.gov
